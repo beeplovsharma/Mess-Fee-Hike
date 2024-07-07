@@ -2,7 +2,8 @@
 document.querySelector('#Director').addEventListener('click', function() {
     // Replace 'yourEmailAddress' with the actual Gmail address
     var emailAddress = 'director@nitjsr.ac.in';
-    var subject = "Sudha owner's continual misbehavior towards the students.";
+    var subject = "Concern Regarding Increased Mess Fee and Pending Fee Remissions
+";
     var body = `
 Respected Director Sir,
 
@@ -30,7 +31,8 @@ Thank you.
 document.querySelector('#Dean').addEventListener('click', function() {
     // Replace 'yourEmailAddress' with the actual Gmail address
     var emailAddress = 'dean.sw@nitjsr.ac.in';
-    var subject = "Sudha owner's continual misbehavior towards the students.";
+    var subject = "Concern Regarding Increased Mess Fee and Pending Fee Remissions
+";
     var body = `
 Respected Dean SW Sir,
 
